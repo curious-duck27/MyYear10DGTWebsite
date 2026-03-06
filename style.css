@@ -53,6 +53,13 @@ h1 {
   color: #286372c0;
 }
 
+h3 {
+  font-size: 50px;
+  line-height: 0.5;
+  text-align: center;
+  color: #286372c0;
+}
+
 /* Three column grid with a nice big gap */
 .topic-content{
     display: grid;
