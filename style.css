@@ -57,9 +57,9 @@ h1 {
 .topic-content{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 3em;
+    gap: 1em;
     /* bring the whole section in off the sides of the page */
-    width: 80%;
+    width: 70%;
     /* top margin of 3em and center right/left */
     margin: 3em auto;
 }
