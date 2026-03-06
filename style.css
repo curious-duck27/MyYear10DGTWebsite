@@ -56,7 +56,7 @@ h1 {
 /* Three column grid with a nice big gap */
 .topic-content{
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     gap: 1em;
     /* bring the whole section in off the sides of the page */
     width: 70%;
