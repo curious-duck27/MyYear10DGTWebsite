@@ -59,7 +59,7 @@ h1 {
     grid-template-columns: repeat(4, 1fr);
     gap: 2em;
     /* bring the whole section in off the sides of the page */
-    width: 100%;
+    width: 90%;
     /* top margin of 3em and center right/left */
     margin: 2em auto;
 }
