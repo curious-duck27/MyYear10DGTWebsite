@@ -147,7 +147,7 @@ p {
 }
 
 .programming-box {
-    max-width: 1400px;        
+    max-width: 1000px;        
     margin: 20px auto; 
     padding: 10px;         
     background-color: #d6e7fb;
@@ -155,8 +155,3 @@ p {
     border-radius: 12px;  
     box-shadow: 18px 18px 25px rgba(0, 0, 0, 0.25);
 }
-
-.programming-box:hover {
-    transform: translateY(-12px) scale(1.07);
-    box-shadow: 18px 18px 25px rgba(0, 0, 0, 0.25);
-    z-index: 10;
